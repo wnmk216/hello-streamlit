@@ -1,8 +1,6 @@
 import numpy as np
 import pandas as pd
 import streamlit as st
-#Import Library 
-import streamlit as st
 
 #Display Title
 st.title("Hello Machine Learning!!!")
